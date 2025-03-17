@@ -125,4 +125,4 @@ I took a deep dive into MagicBlock’s game-changing speed on Solana.
 🔗 Check out my tweet here: https://x.com/DEDONFXOFFICIAL/status/1901481131502964916?t=VHfbZx5DHaaKYLEG6ASAbA&s=19
 
 
-🚀 Build now → magicblock.
+🚀 Build now → magicblock.xyz
